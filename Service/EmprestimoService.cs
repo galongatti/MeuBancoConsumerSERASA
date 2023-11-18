@@ -8,7 +8,6 @@ namespace MeuBancoSerasaConsumer.Service
 
         public Emprestimo ConsultarSerasa(Emprestimo emprestimo)
         {
-            Emprestimo newEmprestimo = emprestimo;
             Random rnd = new Random();
             int score = rnd.Next(0, 1000);
             int nota = 0;

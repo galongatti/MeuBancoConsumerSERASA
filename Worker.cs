@@ -58,7 +58,7 @@ public class Worker : BackgroundService
 
             if (emprestimo != null)
             {
-                EmprestimoService service = new EmprestimoService();
+                EmprestimoService service = new();
                 emprestimo = service.ConsultarSerasa(emprestimo);
                 service.AtualarEmprestimo(emprestimo);
             }

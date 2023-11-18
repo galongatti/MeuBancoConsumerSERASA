@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BPBRQ3wxJFDGzHC9A+0V8zVtBtkB60WAnEtFjtszchAoroidhaIqHOHZpb/slidV6rdp5vkShrnqN2TVjt7dhw==",
+  "dgSpecHash": "sZXvDTDyLLbPMcOjFGR7JymIJPG4XHGHeq0Jo/aEStcfC5Xy7BWGaumvEmLOlT0rX4Zaw/R34P1zj7NOHeAT2w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj",
+  "projectFilePath": "C:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GaLon\\.nuget\\packages\\dapper\\2.1.21\\dapper.2.1.21.nupkg.sha512",
     "C:\\Users\\GaLon\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",

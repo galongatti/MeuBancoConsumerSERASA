@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj": {}
+    "C:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj": {}
   },
   "projects": {
-    "c:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj": {
+    "C:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj",
+        "projectUniqueName": "C:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj",
         "projectName": "MeuBancoSerasaConsumer",
-        "projectPath": "c:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj",
+        "projectPath": "C:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj",
         "packagesPath": "C:\\Users\\GaLon\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\obj\\",
+        "outputPath": "C:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
