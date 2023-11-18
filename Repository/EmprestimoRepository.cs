@@ -14,7 +14,6 @@ namespace MeuBancoSerasaConsumer.Repository
         {
             string sql = "UPDATE Emprestimo SET NotaSERASA = @NotaSERASA, ScoreSERASA = @ScoreSERASA WHERE IdEmprestimo = @IdEmprestimo;";
 
-
             using (CustomSQLConnection customSQL = new CustomSQLConnection())
             {
                 SqlConnection sqlConnection = customSQL.ConexaoBanco();
