@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sZXvDTDyLLbPMcOjFGR7JymIJPG4XHGHeq0Jo/aEStcfC5Xy7BWGaumvEmLOlT0rX4Zaw/R34P1zj7NOHeAT2w==",
+  "dgSpecHash": "H2at3TCeEXxWFVmin9LGMLpOwXyisy742OB4BPE49JmHdTPDFfvUYyQu/3k8K2AQyI3voMzYtBBbZXagS4oWfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\GaLon\\source\\repos\\MeuBancoConsumerSERASA\\MeuBancoSerasaConsumer.csproj",
   "expectedPackageFiles": [
@@ -46,7 +46,11 @@
     "C:\\Users\\GaLon\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\GaLon\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\GaLon\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\GaLon\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\GaLon\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\GaLon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\GaLon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\GaLon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\GaLon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }

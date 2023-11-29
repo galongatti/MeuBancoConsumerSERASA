@@ -53,3 +53,4 @@ C:\Users\GaLon\source\repos\MeuBancoConsumerSERASA\obj\Debug\net6.0\refint\MeuBa
 C:\Users\GaLon\source\repos\MeuBancoConsumerSERASA\obj\Debug\net6.0\MeuBancoSerasaConsumer.pdb
 C:\Users\GaLon\source\repos\MeuBancoConsumerSERASA\obj\Debug\net6.0\MeuBancoSerasaConsumer.genruntimeconfig.cache
 C:\Users\GaLon\source\repos\MeuBancoConsumerSERASA\obj\Debug\net6.0\ref\MeuBancoSerasaConsumer.dll
+c:\Users\GaLon\source\repos\MeuBancoConsumerSERASA\obj\Debug\net6.0\MeuBancoSerasaConsumer.sourcelink.json

@@ -10,6 +10,7 @@ namespace MeuBancoSerasaConsumer.Model
         public int? ScoreSERASA {get;set;}
         public long? IdPessoa { get; set; }
         public Pessoa? Pessoa { get; set; }
+    
     }
     
 }
